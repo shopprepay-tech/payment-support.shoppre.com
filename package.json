@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vuepress dev docs --port $PORT",
     "build": "vuepress build docs",
-    "postbuild": "vuepress-sitemap -H https://www.parkenconsulting.com -d public"
+    "postbuild": "vuepress-sitemap -H https://support.shopprepay.in -d public"
   },
   "devDependencies": {
     "vuepress": "^0.14.4",
