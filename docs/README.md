@@ -1,1 +1,3 @@
-# Hello From Vuepress on Now 2.0!
+# Welcome to Payments Support
+
+contact [payments@shoppre.com](mailto:payments@shoppre.com)
