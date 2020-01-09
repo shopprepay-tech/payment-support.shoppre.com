@@ -8,5 +8,13 @@ module.exports = {
       { text: "Parcel Payments Support", link: "/parcel-support" }
     ]
   },
-  dest: "public"
+  dest: "public",
+    plugins: [
+      'social-share',
+    {
+      'sitemap': {
+        hostname: 'https://support.shopprepay.in'
+      },
+    }
+  ],
 };
